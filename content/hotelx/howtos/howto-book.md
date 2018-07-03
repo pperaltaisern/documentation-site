@@ -6,7 +6,7 @@ weight = 2
 alwaysopen = false
 +++
 
-Flow to book 
+Flow to book
 
 ## HotelX Settings
 
